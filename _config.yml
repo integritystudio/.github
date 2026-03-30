@@ -128,7 +128,7 @@ site:
   schema-org-file-system       : "https://integritystudio.pro/" # UI for ML & OCR & computer vision driven organization system
   tcad-scraper                 : "https://alephatx.info/" # UI for austin real estate data
   CodeInventory                : "https://integrityaistudio.com/" # example automated code quality analysis report - not actively maintained
-  AlephAuto                    : "n0ai.app/" # not actively maintained
+  AlephAuto                    : "https://n0ai.app/" # not actively maintained
   ai-observability-html        : "https://integritystudio.github.io/ai-observability-html/" # continuously updated observability market reports
 
 # Published Products - Backend (no UI)
@@ -139,7 +139,7 @@ product:
 tool:
   bot-army-google-calendar-mcp        : "https://github.com/integritystudio/bot-army-google-calendar-mcp"
   dev-env-analyzer                    : "https://github.com/integritystudio/dev-env-analyzer"
-  demo-creater                        : "https://github.com/integritystudio/demo-creater"  
+  demo-creator                        : "https://github.com/integritystudio/demo-creator"  
 
 # -----------------------------------
 # 🔹 Site Settings
@@ -177,13 +177,6 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Organization (defaults to Person)
-  name                   : 
-  links: # An array of links to social media profiles
 
 
 # Analytics
