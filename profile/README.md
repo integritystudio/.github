@@ -20,9 +20,12 @@ Our platform transforms opaque AI behavior into traceable, auditable, and optimi
 | [alephatx.info](https://alephatx.info) | [tcad-scraper](https://github.com/integritystudio/tcad-scraper) |
 | [johnskelton.blog](https://johnskelton.blog) | [john_skelton](https://github.com/integritystudio/john_skelton) |
 | [isabelbudenz.com](https://isabelbudenz.com) | [isabel-budenz](https://github.com/integritystudio/isabel-budenz) |
+| [alephintegrity.com](https://alephintegrity.com) | [claude-tool-use](https://github.com/integritystudio/claude-tool-use) |
+| [www.alephcondense.dev](https://www.alephcondense.dev) | [alephcondense](https://github.com/integritystudio/alephcondense) |
 | [integritystudio.github.io/IntegrityLandingPage](https://integritystudio.github.io/IntegrityLandingPage/) | [IntegrityLandingPage](https://github.com/integritystudio/IntegrityLandingPage) |
 | [integritystudio.github.io/AnalyticsBot](https://integritystudio.github.io/AnalyticsBot/) | [AnalyticsBot](https://github.com/integritystudio/AnalyticsBot) |
 | [integritystudio.github.io/ai-observability-html](https://integritystudio.github.io/ai-observability-html/) | [ai-observability-html](https://github.com/integritystudio/ai-observability-html) |
+| [integritystudio.github.io/SingleSiteScraper](https://integritystudio.github.io/SingleSiteScraper/) | [SingleSiteScraper](https://github.com/integritystudio/SingleSiteScraper) |
 
 #### HowTo Guides
 
