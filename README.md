@@ -1,10 +1,3 @@
----
-layout: single
-author_profile: true
-title: "Integrity Studio"
-permalink: /
----
-
 # Integrity Studio
 
 **AI Observability · Trust Infrastructure · Measurable Systems**
