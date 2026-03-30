@@ -41,13 +41,9 @@ collections:
     output: true
     permalink: /research/:path/
 
-  deployments:
+  architecture:
     output: true
-    permalink: /deployments/:path/
-
-  playbooks:
-    output: true
-    permalink: /playbooks/:path/
+    permalink: /architecture/:path/
 
   insights:
     output: true
@@ -90,14 +86,7 @@ defaults:
 
   - scope:
       path: ""
-      type: deployments
-    values:
-      layout: single
-      author_profile: true
-
-  - scope:
-      path: ""
-      type: playbooks
+      type: architecture
     values:
       layout: single
       author_profile: true

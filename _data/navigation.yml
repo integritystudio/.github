@@ -5,14 +5,11 @@ main:
   - title: "Products"
     url: /products/
 
-  - title: "Deployments"
-    url: /deployments/
-
   - title: "Research"
     url: /research/
 
-  - title: "Playbooks"
-    url: /playbooks/
+  - title: "Architecture"
+    url: /architecture/
 
   - title: "Insights"
     url: /insights/
