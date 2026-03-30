@@ -24,6 +24,11 @@ Our platform transforms opaque AI behavior into traceable, auditable, and optimi
 | [integritystudio.github.io/AnalyticsBot](https://integritystudio.github.io/AnalyticsBot/) | [AnalyticsBot](https://github.com/integritystudio/AnalyticsBot) |
 | [integritystudio.github.io/ai-observability-html](https://integritystudio.github.io/ai-observability-html/) | [ai-observability-html](https://github.com/integritystudio/ai-observability-html) |
 
+#### HowTo Guides
+
+[How To: Edit a File](../_pages/edit-guide.md)
+
+
 ---
 
 ## Platform
