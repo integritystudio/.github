@@ -1,0 +1,11 @@
+author:
+  name: "Integrity Studio"
+  avatar: "/assets/images/logo.png"
+  bio: "AI observability + trust infrastructure"
+  links:
+    - label: "Website"
+      url: "https://integritystudio.ai"
+    - label: "GitHub"
+      url: "https://github.com/integritystudio"
+    - label: "Contact"
+      url: "mailto:hello@integritystudio.ai"
