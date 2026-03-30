@@ -27,7 +27,7 @@ Our platform transforms opaque AI behavior into traceable, auditable, and optimi
 #### HowTo Guides
 
 [How To: Edit a File](../_pages/edit-guide.md)
-
+[How To: Take Down a Site](../pages/site-takedown.md)
 
 ---
 
